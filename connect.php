@@ -4,10 +4,10 @@ $servername = "localhost";
 $username = "root";
 // Enter your MySQL password below
 $password = "";
-$dbname = "net_banking";
+$dbname = "login";
 
 // Create connection
-$conn = new mysqli("localhost","root","","net_banking");
+$conn = new mysqli("localhost","root","","login");
 
 // Check connection
 if ($conn->connect_error) {

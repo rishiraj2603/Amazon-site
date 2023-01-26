@@ -9,7 +9,7 @@
 <body>
     <div class="flex-container">
         <div class="flex-item">
-            <img id="session" src="images/error.png">
+            <img id="session" src="./images/error.png">
         </div>
         <div class="flex-item-message">
             <h1 id="session-sub">Uh-Oh !</h1>
