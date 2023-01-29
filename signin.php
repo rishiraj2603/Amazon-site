@@ -23,6 +23,7 @@
                 <input type="password" name="cust_psw" placeholder="Enter Password">
                 <input type="submit" name="" placeholder="Login">
                 <a href="signup.html">Don't have an Account?</a>
+                <a href="index.html">Cancel</a>
             </form>
         </div>
 
